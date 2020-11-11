@@ -17,7 +17,7 @@
   <br>
   
 ![](https://komarev.com/ghpvc/?username=Anju1415&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=Anju1415.Anju1415)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Anju1415.Anju1415)-->
   
 
 
