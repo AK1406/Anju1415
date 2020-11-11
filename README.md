@@ -13,6 +13,11 @@
   
 <a href="https://twitter.com/Anju1cL?s=09">
   <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" height="7%" ; width="10%" ; margin-left:20px;></img></a>
+  <br>
+  <br>
+  
+![](https://komarev.com/ghpvc/?username=Anju1415&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=Anju1415.Anju1415)
   
 
 
