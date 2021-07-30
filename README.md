@@ -36,7 +36,5 @@
 <hr>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anju1415&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anju's      github stats" />
-  <a href="https://github.com/Anju1415/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anju1415&layout=ompact&theme=blue-green" />
 </a> 
 
