@@ -7,7 +7,8 @@
 <br><br>
 ✍🏻 I write technical articles at 
 <img src ="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" width = 20 height = 20> GeeksForGeeks.<br><br>
-<img src="https://api.badgr.io/public/assertions/O1cPYrAgTKaj4D99DJsh3g/image" width =20 height =20> Postman Student Expert 2021.
+<img src="https://api.badgr.io/public/assertions/O1cPYrAgTKaj4D99DJsh3g/image" width =20 height =20> Postman Student Expert 2021.<a href="https://badgr.com/public/assertions/O1cPYrAgTKaj4D99DJsh3g?identity__email=kumarianju.3346%40gmail.com"></a><br><br>
+<img src="https://www.gstatic.com/devrel-devsite/prod/v0492b3db79b8927fe2347ea2dc87c471b22f173331622ffd10334837d43ea37f/developers/images/touchicon-180.png" width =20 height = 20> <b><a href="https://developers.google.com/profile/u/115603594137874129307?utm_source=developer.android.com">My Google Developer Profile</a></b>
 <hr>
 
 🛠 &nbsp;Tech Stack
