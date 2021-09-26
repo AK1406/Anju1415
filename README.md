@@ -3,7 +3,7 @@
  
  👩‍🎓 Hey! I'm Anju, a BTech student at Galgotias University,Greater Noida, India.<br><br>
  👩‍💻 Being a Android enthusiast, I develop Android apps in Kotlin 
-<img src ="https://icon2.cleanpng.com/20180712/jwy/kisspng-android-software-development-kotlin-mobile-app-dev-android-programming-5b47975c5aa9f1.4404467115314184603714.jpg" width=20 height=20> from designing UI/UX to maintaining backend. Having 500+ downloads within 2 months for my 1st app on Google Play Store.
+<img src ="https://icon2.cleanpng.com/20180712/jwy/kisspng-android-software-development-kotlin-mobile-app-dev-android-programming-5b47975c5aa9f1.4404467115314184603714.jpg" width=20 height=20> from designing UI/UX to maintaining backend.
 <br><br>
 ✍🏻 I write <a href="https://linktr.ee/Anju_">technical articles</a> at 
 <img src ="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" width = 20 height = 20> GeeksForGeeks.<br><br>
