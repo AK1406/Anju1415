@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Anju Kumari <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h1 align="center">Hey, I'm Anju Kumari <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width=30 height=30></h1> 
  About Me 
  
- 👩‍🎓 Hey! I'm Anju, a BTech student at Galgotias University,Greater Noida, India.<br><br>
+ 👩‍🎓 Hey! I'm Anju, an Android Developer from Noida,UP, India.<br><br>
  👩‍💻 Being a Android enthusiast, I develop Android apps in Kotlin 
 <img src ="https://icon2.cleanpng.com/20180712/jwy/kisspng-android-software-development-kotlin-mobile-app-dev-android-programming-5b47975c5aa9f1.4404467115314184603714.jpg" width=20 height=20> from designing UI/UX to maintaining backend.
 <br><br>
